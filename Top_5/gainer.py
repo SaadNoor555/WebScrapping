@@ -36,7 +36,7 @@ def top_10_gainer():
     # print(listOfFirms)
     listOfFirms.sort(reverse = True, key = lambda x: x[1])
     top10Firms = list()
-    for i in range(10):
+    for i in range(5):
         top10Firms.append([listOfFirms[i][0], listOfFirms[i][3], listOfFirms[i][2]])
 
     return top10Firms

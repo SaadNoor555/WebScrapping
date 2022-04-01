@@ -1,0 +1,1276 @@
+<!--<li><a href="#">Prospectus/Information Memorandum Archive</a></li>
+                        <li><a href="#">Continuing Listing Requirements</a></li>
+                        <li><a href="#">Corporate Governance Guidelines</a></li>
+                        <li><a href="#">List of Listed Securities/Companies</a></li>
+                        <li><a href="#">Listed Companies Directory</a></li>
+                        <li><a href="#">List of Delisted Companies</a></li>-->
+<li><a href="share_transfer_procedure.php">Share Transfer Process</a></li>
+<!-- <li><a href="#">Changes of Company Name, Trading Code, Company Code and Sector</a></li>
+                        <li><a href="#">Circulars to Listed Companies</a></li>
+                        <li><a href="#">Compliance Manual</a></li>
+                        <li><a href="#">Corporate Filings</a></li>-->
+<li><a href="listing_reg_2015.php">Formats Under Listing Regulation</a></li>
+<li><a href="complaintCell.php">E-Investor’s Complaint</a></li>
+<!--<li><a href="#">Downloads</a></li>
+                        <li><a href="#">FAQs</a></li>   -->
+</ul>
+</li>
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Products<b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="products_of_dse.php">Equity</a></li>
+<li><a href="products_of_dse.php#Debt">Debt</a></li>
+<li><a href="products_of_dse.php#FutureProd">Future Products</a></li>
+<li><a href="dse-mobile.php">DSE Mobile</a></li>
+<li class="dropdown-submenu">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">DSE Data Services</a>
+<ul class="dropdown-menu">
+<li><a href="assets/pdf/Introduction of DSE Data Sale Services.pdf">Introduction</a></li>
+<li><a href="flipbook/dse-data-service/leaflet.php" target="_blank">Leaflet</a></li>
+<li><a href="assets/pdf/iMDS.pdf">MDS</a></li>
+<li><a href="assets/pdf/EOD.pdf">EOD</a></li>
+</ul>
+</li>
+<li class="dropdown-submenu">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Affiliate Services</a>
+<ul class="dropdown-menu">
+<li><a href="Global-Reporting-Initiatives-GRI.php">GRI</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="contact.php">Contact Us</a></li>
+</ul>
+</div>
+</nav>
+</header></div>
+</div>
+<div class="clearfix"></div>
+<section class="content">
+<div class="white">
+<div class="col-md-6 col-xs-12 col-sm-12 LeftColHome">
+<div class="_row">
+<h2 class="Bodyheading">Last update on Mar 31, 2022 at 3:45 PM </h2>
+<div class="midrow">
+<div class="m_col-1">DSE<font size="+1">X</font> Index</div>
+<div class="m_col-2"> 6757.83526 </div>
+<div class="m_col-3">
+          4.07155        </div>
+<div class="m_col-4">
+          0.06029%        </div>
+<div class="m_col-5"><img src="assets/images/upArrow.jpg"/></div>
+</div>
+<div class="midrow" style="margin-top:1px;">
+<div class="m_col-1">DSE<font size="+1">S</font> Index</div>
+<div class="m_col-2"> 1468.11411 </div>
+<div class="m_col-3">
+          4.18135        </div>
+<div class="m_col-4">
+          0.28562%        </div>
+<div class="m_col-5"><img src="assets/images/upArrow.jpg"/></div>
+</div>
+<div class="midrow" style="margin-top:1px;">
+<div class="m_col-1">DS30 Index</div>
+<div class="m_col-2"> 2474.00543 </div>
+<div class="m_col-3">
+          8.40576        </div>
+<div class="m_col-4">
+          0.34092%        </div>
+<div class="m_col-5"><img src="assets/images/upArrow.jpg"/></div>
+</div>
+<div class="midrow mt10 mol_col-wid-cus">
+<div class="m_col-wid colorgreen">Total Trade</div>
+<div class="m_col-wid1 colorgreen">Total Volume</div>
+<div class="m_col-wid2 colorgreen">Total Value in Taka (mn)</div>
+</div>
+<div class="midrow mol_col-wid-cus" style="margin-top:1px;">
+<div class="m_col-wid colorlight">
+          152808        </div>
+<div class="m_col-wid1 colorlight">
+          214520302        </div>
+<div class="m_col-wid2 colorlight">
+          11169.465        </div>
+</div>
+<div class="midrow mt10 mol_col-wid-cus">
+<div class="m_col-wid colorgreen">Issues Advanced</div>
+<div class="m_col-wid1 colorgreen">Issues declined</div>
+<div class="m_col-wid2 colorgreen">Issues Unchanged</div>
+</div>
+<div class="midrow mol_col-wid-cus" style="margin-top:1px;">
+<div class="m_col-wid colorlight">134</div>
+<div class="m_col-wid1 colorlight">183</div>
+<div class="m_col-wid2 colorlight">62</div>
+</div>
+</div>
+</div>
+<div class="col-md-6 col-xs-12 col-sm-12 RightColHome">
+<div class="carousel slide" data-ride="carousel" id="carousel-example-generic">
+<ol class="carousel-indicators" style="display:none">
+<li class="active" data-slide-to="0" data-target="#carousel-example-generic"></li>
+<li data-slide-to="1" data-target="#carousel-example-generic"></li>
+</ol>
+<div class="carousel-inner" role="listbox">
+<div class="item active"><a href="https://dsebd.org/public-announcement.php" target="new"><img class="img-responsive" src="assets/beximco-syn11.jpg"/></a></div>
+<div class="item"><a href="flipbook/dse-data-service/leaflet.php" target="new"><img class="img-responsive" src="assets/images/data_service_leaflet.jpg"/></a></div>
+<div class="item"><a href="https://ccbl.com.bd/tender-notice/" target="new"><img class="img-responsive" src="assets/images/Publication-of-RFP-Banner-2.jpg"/></a></div>
+<div class="item"><a href="https://www.dsebd.org/assets/pdf/CDBL_NEW_AD11.pdf"><img class="img-responsive" src="assets/images/CDBL_NEW_AD11.jpg"/></a></div>
+<div class="item"><a href="recent_trainingofDTA11.php"><img class="img-responsive" src="assets/images/fin-statement-mar22-01.jpg"/></a></div>
+<div class="item"><a href="recent_trainingofDTA.php"><img class="img-responsive" src="assets/images/Web-banner_BICM.jpg"/></a></div>
+<div class="item"><a href="https://www.dsebd.org/assets/pdf/AboutCMSF.pdf"><img class="img-responsive" src="assets/images/web-banner-CMSF.jpg"/></a></div>
+<div class="item"><a href="https://www.cdbl.com.bd/complaints.sec.gov.bd/" target="new"><img class="img-responsive" src="assets/images/complaint Module.jpg"/></a></div>
+<div class="item"><a href="assets/pdf/crest-Ad22.pdf" target="new"><img class="img-responsive" src="assets/images/crest-banner.jpg"/></a></div>
+<div class="item"><a href="assets/pdf/tamha22.pdf" target="new"><img class="img-responsive" src="assets/images/tamha-dec21.jpg"/></a></div>
+<div class="item"><a href="assets/pdf/Banco securiries_22.pdf" target="new"><img class="img-responsive" src="assets/images/Banco-securiries_for-web.jpg"/></a></div>
+<!--
+
+                        <div class="item"><a href="assets/pdf/Subscribtion-form.pdf">  <img class="img-responsive" src="assets/images/magazine_subscription.jpg"></a> </div>
+                                        -->
+</div>
+<a class="left carousel-control" data-slide="next" href="#carousel-example-generic" role="button"> <i aria-hidden="true" class="fa fa-chevron-left"></i> <span class="sr-only">Next</span> </a> <a class="right carousel-control" data-slide="prev" href="#carousel-example-generic" role="button"> <i aria-hidden="true" class="fa fa-chevron-right"></i> <span class="sr-only">Previous</span> </a> </div>
+</div>
+<div class="row custom-row">
+<div class="col-md-6 col-xs-12 col-sm-12 LeftColHome mt10">
+<div role="tabpanel">
+<div class="profiles">
+<h2 class="boxHead">Indices</h2>
+<div class="tabholdIndi">
+<ul class="nav-tab-custom nav nav-tabs tabs">
+<li><a class="tabindice" href="#graphdiv2">DSE<font size="+1">X</font></a></li>
+<li><a class="tabindice" href="#graphdiv3">DSE<font size="+1">S</font></a></li>
+<li><a class="tabindice" href="#graphdiv4">DS30</a></li>
+<li><a class="tabindice" href="#graphdiv5">CDSET</a></li>
+</ul>
+</div>
+<div class="tab-content tabcontent">
+<div class="tab elementsSetThatCanBeTapped" id="graphdiv2"></div>
+<div class="tab elementsSetThatCanBeTapped" id="graphdiv3"></div>
+<div class="tab elementsSetThatCanBeTapped" id="graphdiv4"></div>
+<div class="tab elementsSetThatCanBeTapped" id="graphdiv5"></div>
+</div>
+</div>
+</div>
+<div class="panel panel-dse mt10">
+<div class="panel-heading" style="background:#dadada; color:#005e89;">Index Graph Last 30 Days </div>
+<div class="panel-body">
+<div class="report"> <i class="fa fa-bar-chart icon-bar-chart"></i> <a href="javascript:void(0)" onclick='javascript:window.open("./php_graph/monthly_graph_index.php?type=dseX&amp;duration=1", "CompanyGraph", "ttoolbar=no,width=750,height=450,scrollbars=1")'> DSE<font size="+1">X</font> </a> </div>
+<div class="report"> <i class="fa fa-bar-chart icon-bar-chart"></i> <a href="javascript:void(0)" onclick='javascript:window.open("./php_graph/monthly_graph_index.php?type=dseS&amp;duration=1", "CompanyGraph", "ttoolbar=no,width=750,height=450,scrollbars=1")'> DSE<font size="+1">S</font> </a> </div>
+<div class="report"> <i class="fa fa-bar-chart icon-bar-chart"></i> <a href="javascript:void(0)" onclick='javascript:window.open("./php_graph/monthly_graph_index.php?type=ds30&amp;duration=1", "CompanyGraph", "ttoolbar=no,width=750,height=450,scrollbars=1")'> DS30<font size="+1"></font> </a> </div>
+<div class="report"> <i class="fa fa-bar-chart icon-bar-chart"></i> <a href="javascript:void(0)" onclick='javascript:window.open("./php_graph/monthly_graph_index.php?type=cdset&amp;duration=1", "CompanyGraph", "ttoolbar=no,width=750,height=450,scrollbars=1")'> CDSET<font size="+1"></font> </a> </div>
+</div>
+</div>
+</div>
+<div class="col-md-6 col-xs-12 col-sm-12 RightColHome mt10">
+<div _style="height: 257px;" role="tabpanel">
+<h2 class="boxHead">Share Price by</h2>
+<div class="tabhold">
+<ul class="nav nav-tabs tabs">
+<li class="active" role="presentation"><a aria-controls="bvoluem" data-toggle="tab" href="#bvoluem" role="tab">Last Trade
+              Price</a></li>
+<li role="presentation"><a aria-controls="change" data-toggle="tab" href="#change" role="tab">% Change</a></li>
+<li role="presentation"><a aria-controls="btrade" data-toggle="tab" href="#btrade" role="tab">Debt Board</a></li>
+</ul>
+</div>
+<!-- Tab panes -->
+<div class="tab-content">
+<div class="tab-pane" id="change" role="tabpanel">
+<div class="table-responsive">
+<table class="table table-striped table-bordered homePageTable share-by-price-table">
+<thead>
+<tr>
+<th class="textAlingleft">TRADING CODE</th>
+<th class="textAlingRight">LTP</th>
+<th class="textAlingRight">% CHANGE</th>
+<th class="textAlingRight">CLOSEP</th>
+<th class="textAlingRight">YCP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=JHRML" target="_top">JHRML</a></td>
+<td class="textAlingRight">22</td>
+<td class="textAlingRight">10</td>
+<td class="textAlingRight">22</td>
+<td class="textAlingRight">20</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=YPL" target="_top">YPL</a></td>
+<td class="textAlingRight">24.5</td>
+<td class="textAlingRight">9.865</td>
+<td class="textAlingRight">24.5</td>
+<td class="textAlingRight">22.3</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=IPDC" target="_top">IPDC</a></td>
+<td class="textAlingRight">41.3</td>
+<td class="textAlingRight">9.549</td>
+<td class="textAlingRight">41.3</td>
+<td class="textAlingRight">37.7</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=MEGCONMILK" target="_top">MEGCONMILK</a></td>
+<td class="textAlingRight">21</td>
+<td class="textAlingRight">6.599</td>
+<td class="textAlingRight">20.9</td>
+<td class="textAlingRight">19.7</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=LOVELLO" target="_top">LOVELLO</a></td>
+<td class="textAlingRight">41.7</td>
+<td class="textAlingRight">5.838</td>
+<td class="textAlingRight">41.7</td>
+<td class="textAlingRight">39.4</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=MEGHNAPET" target="_top">MEGHNAPET</a></td>
+<td class="textAlingRight">26.2</td>
+<td class="textAlingRight">5.645</td>
+<td class="textAlingRight">26.2</td>
+<td class="textAlingRight">24.8</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=GEMINISEA" target="_top">GEMINISEA</a></td>
+<td class="textAlingRight">510.5</td>
+<td class="textAlingRight">5.301</td>
+<td class="textAlingRight">510.5</td>
+<td class="textAlingRight">484.8</td>
+</tr>
+<tr>
+<td colspan="6" style="padding:0px;"><a class="btn btn-link pull-right" href="latest_share_price_scroll_by_change.php"><strong>More...</strong></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="tab-pane active" id="bvoluem" role="tabpanel">
+<div class="table-responsive">
+<table class="table table-striped table-bordered homePageTable share-by-price-table">
+<thead>
+<tr>
+<th class="textAlingleft">TRADING CODE</th>
+<th class="textAlingRight">LTP</th>
+<th class="textAlingRight">CHANGE</th>
+<th class="textAlingRight">CLOSEP</th>
+<th class="textAlingRight">YCP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=RECKITTBEN" target="_top">RECKITTBEN</a></td>
+<td class="textAlingRight">5,388.4</td>
+<td class="textAlingRight"><span class="classGreen">30.4</span></td>
+<td class="textAlingRight">5,388.4</td>
+<td class="textAlingRight">5,358</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=UNILEVERCL" target="_top">UNILEVERCL</a></td>
+<td class="textAlingRight">2,826</td>
+<td class="textAlingRight"><span class="classGreen">14.7</span></td>
+<td class="textAlingRight">2,826.2</td>
+<td class="textAlingRight">2,811.3</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=MARICO" target="_top">MARICO</a></td>
+<td class="textAlingRight">2,355</td>
+<td class="textAlingRight"><span class="classGreen">4.60</span></td>
+<td class="textAlingRight">2,355.2</td>
+<td class="textAlingRight">2,350.4</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=EASTRNLUB" target="_top">EASTRNLUB</a></td>
+<td class="textAlingRight">2,062.2</td>
+<td class="textAlingRight"><span class="classRed">-15.5</span></td>
+<td class="textAlingRight">2,062.2</td>
+<td class="textAlingRight">2,077.7</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=BERGERPBL" target="_top">BERGERPBL</a></td>
+<td class="textAlingRight">1,759.9</td>
+<td class="textAlingRight"><span class="classRed">-0.80</span></td>
+<td class="textAlingRight">1,753.6</td>
+<td class="textAlingRight">1,760.7</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=RENATA" target="_top">RENATA</a></td>
+<td class="textAlingRight">1,353.3</td>
+<td class="textAlingRight"><span class="classGreen">11.2</span></td>
+<td class="textAlingRight">1,353.3</td>
+<td class="textAlingRight">1,342.1</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=WALTONHIL" target="_top">WALTONHIL</a></td>
+<td class="textAlingRight">1,076</td>
+<td class="textAlingRight"><span class="classRed">-2.5</span></td>
+<td class="textAlingRight">1,076.1</td>
+<td class="textAlingRight">1,078.5</td>
+</tr>
+<tr>
+<td colspan="6" style="padding:0px;"><a class="btn btn-link pull-right" href="latest_share_price_scroll_by_ltp.php"><strong>More...</strong></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="tab-pane" id="btrade" role="tabpanel">
+<div class="table-responsive">
+<table class="table table-striped shareByPrice table-bordered homePageTable share-by-price-table">
+<thead>
+<tr>
+<th class="textAlingleft">TRADING CODE</th>
+<th class="textAlingRight">LTP</th>
+<th class="textAlingRight">CHANGE</th>
+<th class="textAlingRight">CLOSEP</th>
+<th class="textAlingRight">YCP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=APSCLBOND" target="_top">APSCLBOND</a></td>
+<td class="textAlingRight">5,450</td>
+<td class="textAlingRight"><span class="classGreen">100</span></td>
+<td class="textAlingRight">5,450</td>
+<td class="textAlingRight">5,350</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=BEXGSUKUK" target="_top">BEXGSUKUK</a></td>
+<td class="textAlingRight">88</td>
+<td class="textAlingRight"><span class="classGreen">1</span></td>
+<td class="textAlingRight">88</td>
+<td class="textAlingRight">87</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=IBBLPBOND" target="_top">IBBLPBOND</a></td>
+<td class="textAlingRight">1,050</td>
+<td class="textAlingRight"><span class="classGreen">32</span></td>
+<td class="textAlingRight">1,043.5</td>
+<td class="textAlingRight">1,018</td>
+</tr>
+<tr><td colspan="5"> </td></tr><tr><td colspan="5"> </td></tr><tr><td colspan="5"> </td></tr> <tr>
+<td colspan="6" style="padding:0px;"><a class="btn btn-link pull-right" href="latest_share_price_scroll_treasury_bond.php"><strong>More...</strong></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="custom-row">
+<div class="col-md-6 col-xs-12 col-sm-12 LeftColHome" style="margin-top: 10px;">
+<style>
+                            .dygraph-legend {
+                                background: transparent !important;
+                                font-size: 10px !important;
+                            }
+                        </style>
+<h2 class="Bodyheading bodyheading-custom">Preceding Trade Date: Mar 30, 2022 </h2>
+<div class="midrow">
+<div class="m_col-1">DSE<font size="+1">X</font> Index</div>
+<div class="m_col-2"> 6753.76371 </div>
+<div class="m_col-3"> -11.53851 </div>
+<div class="m_col-4"> -0.17055%</div>
+<div class="m_col-5"><img src="assets/images/downArrow.jpg"/></div>
+</div>
+<div class="midrow" style="margin-top:1px;">
+<div class="m_col-1">DSE<font size="+1">S</font> Index</div>
+<div class="m_col-2"> 1463.93276 </div>
+<div class="m_col-3"> -1.04975 </div>
+<div class="m_col-4"> -0.07166 %</div>
+<div class="m_col-5"><img src="assets/images/downArrow.jpg"/></div>
+</div>
+<div class="midrow" style="margin-top:1px;">
+<div class="m_col-1">DS30 Index</div>
+<div class="m_col-2"> 2465.59967 </div>
+<div class="m_col-3"> -5.48114 </div>
+<div class="m_col-4"> -0.22181%</div>
+<div class="m_col-5"><img src="assets/images/downArrow.jpg"/></div>
+</div>
+<div class="midrow mt10" s="">
+<div class="m_col-wid" style="background:#dadada; color:#005e89;">Total Trade</div>
+<div class="m_col-wid1" style="background:#dadada; border-left: 1px solid #bbbba8;color:#005e89;">Total Volume </div>
+<div class="m_col-wid2" style="background:#dadada; border-left: 1px solid #bbbba8;color:#005e89;">Total Value in Taka (mn) </div>
+</div>
+<div class="midrow" style="margin-top:1px;">
+<div class="m_col-wid colorlight">146151</div>
+<div class="m_col-wid1 colorlight">167122052</div>
+<div class="m_col-wid2 colorlight">8013.283</div>
+</div>
+</div>
+<div class="col-md-6 col-xs-12 col-sm-12 RightColHome" style="margin-top: 10px;">
+<div class="ads-block" style="margin: 0; padding: 0px; padding-bottom: 10px;"> <img class="img-responsive center-block" src="assets/images/dse-ad-space-2019.jpg"/> </div>
+<div class="panel panel-dse">
+<div class="panel-body Sbdy">
+<div class="col-md-4 col-xs-6" style="margin-bottom:5px">
+<label>Search Company:</label>
+</div>
+<div class="col-md-4 col-xs-6">
+<input autocomplete="off" class="form-control smheight textNumber textCompany textCompanyHome ui-autocomplete-input" name="name" type="text"/>
+</div>
+<div class="col-md-3 col-xs-3 mb">
+<input class="btn btn-search btn-primary btn-sm pull-left btnCompanyHome" name="btnCompanyHome" type="submit" value="Submit"/>
+</div>
+<div class="col-md-1 col-xs-3 mbtx"> <a class="btn btn-link btn-sm pull-right" href="search_company_more.php"><strong>More..</strong></a> </div>
+</div>
+<div class="panel-body Sbdy">
+<div class="col-md-4 col-xs-6" style="margin-bottom:5px">
+<label for="email">Search TREC Holder:</label>
+</div>
+<div class="col-md-4 col-xs-6">
+<input autocomplete="off" class="form-control smheight textNumber textTRECHolder textTRECHolderHome ui-autocomplete-input" name="name" type="texts"/>
+</div>
+<div class="col-md-3 col-xs-3 mb">
+<input name="ser_cat" type="hidden" value="member"/>
+<input class="btn btn-search btn-primary btn-sm pull-left btnTRECHolderHome" name="btnTRECHolderHome" type="submit" value="Submit"/>
+</div>
+<div class="col-md-1 col-xs-3 mbtx"> <a class="btn btn-link btn-sm pull-right" href="search_tradeholder_more.php"><strong>More..</strong></a> </div>
+</div>
+</div>
+</div>
+<!--<div class="col-md-12 col-xs-12">
+
+                                <div align="center" class="ads-block">
+                          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+                                <ins class="adsbygoogle"
+                                         style="display:inline-block;width:970px;height:90px"
+                                         data-ad-client="ca-pub-2209070014716943"
+                                         data-ad-slot="8843518118"></ins>
+                                <script>
+                                (adsbygoogle = window.adsbygoogle || []).push({});
+                                </script>
+                                </div>
+
+            </div>-->
+<div class="row custom-row">
+<div class="col-md-6 col-xs-12 col-sm-12 LeftColHome">
+<div class="panel panel-dse">
+<div class="panel-heading">Today’s News</div>
+<div class="panel-body panel-body-custom">
+<marquee align="top" behavior="scroll" bgcolor="#ffffee" direction="up" height="212" onmouseout="this.start();" onmouseover="this.stop();" scrollamount="1" scrolldelay="30" style="padding:0 15px" truespeed="" width="100%">
+<div align="center"> <font color="ff9999" face="verdana" size="1"> </font> </div>
+<div align="center"> <font color="ff9999" face="verdana" size="1">End of Today's News</font> </div>
+</marquee>
+<div class="newsFooter newsFooter_custom">
+<div class="row">
+<div class="col-sm-4 col-md-4 col-xs-4 news-btn"> <a class="btn btn-news" href="display_news.php">Today's News</a> </div>
+<div class="col-sm-4 col-md-4 col-xs-4 news-btn"> <a class="btn btn-news" href="news_archive_7days.php">Last Seven Days' News</a> </div>
+<div class="col-sm-4 col-md-4 col-xs-4 news-btn"> <a class="btn btn-news" href="news_archive.php">News Archive</a> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6 col-xs-12 col-sm-12 RightColHome">
+<div role="tabpanel">
+<h2 class="boxHead">Market Highlights</h2>
+<div class="tabhold">
+<ul class="nav nav-tabs mrkthigh" role="tablist">
+<li class="active" role="presentation"><a aria-controls="profile" data-toggle="tab" href="#value" role="tab"> By Value</a></li>
+<li role="presentation"><a aria-controls="home" data-toggle="tab" href="#volume" role="tab">By
+                Volume</a></li>
+<li role="presentation"><a aria-controls="messages" data-toggle="tab" href="#trade" role="tab">By Trade</a></li>
+<li role="presentation"><a aria-controls="messages" data-toggle="tab" href="#market" role="tab">Daily Market</a></li>
+</ul>
+</div>
+<div class="tab-content">
+<div class="tab-pane active" id="value" role="tabpanel">
+<div class="table-responsive">
+<table class="table table-striped shareByPrice table-bordered homePageTable market-highlights-table">
+<thead>
+<tr>
+<th class="textAlingleft">TRADING CODE</th>
+<th class="textAlingRight">VALUE</th>
+<th class="textAlingRight">LTP</th>
+<th class="textAlingRight">CLOSEP</th>
+<th class="textAlingRight">YCP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=FORTUNE" target="_top">FORTUNE</a></td>
+<td class="textAlingRight">1,386.0500</td>
+<td class="textAlingRight">142.8</td>
+<td class="textAlingRight">142.8</td>
+<td class="textAlingRight">140.7</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=SONALIPAPR" target="_top">SONALIPAPR</a></td>
+<td class="textAlingRight">1,027.3230</td>
+<td class="textAlingRight">876.4</td>
+<td class="textAlingRight">876.4</td>
+<td class="textAlingRight">887.3</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=GENEXIL" target="_top">GENEXIL</a></td>
+<td class="textAlingRight">692.6980</td>
+<td class="textAlingRight">124.1</td>
+<td class="textAlingRight">124.1</td>
+<td class="textAlingRight">124.8</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=BEXIMCO" target="_top">BEXIMCO</a></td>
+<td class="textAlingRight">469.1450</td>
+<td class="textAlingRight">153.1</td>
+<td class="textAlingRight">153.1</td>
+<td class="textAlingRight">152.6</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=IPDC" target="_top">IPDC</a></td>
+<td class="textAlingRight">421.7200</td>
+<td class="textAlingRight">41.3</td>
+<td class="textAlingRight">41.3</td>
+<td class="textAlingRight">37.7</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=FUWANGFOOD" target="_top">FUWANGFOOD</a></td>
+<td class="textAlingRight">225.8260</td>
+<td class="textAlingRight">24.4</td>
+<td class="textAlingRight">24.4</td>
+<td class="textAlingRight">23.4</td>
+</tr>
+<tr>
+<td colspan="6" style="padding:0;"><a class="btn btn-link pull-right" href="latest_share_price_scroll_by_value.php"><strong>More...</strong></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="tab-pane" id="volume" role="tabpanel">
+<div class="table-responsive">
+<table class="table table-striped shareByPrice table-bordered homePageTable market-highlights-table">
+<thead>
+<tr>
+<th class="textAlingleft">TRADING CODE</th>
+<th class="textAlingRight">VOLUME</th>
+<th class="textAlingRight">LTP</th>
+<th class="textAlingRight">CLOSEP</th>
+<th class="textAlingRight">YCP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=IPDC" target="_top">IPDC</a></td>
+<td class="textAlingRight">10,248,605</td>
+<td class="textAlingRight">41.3</td>
+<td class="textAlingRight">41.3</td>
+<td class="textAlingRight">37.7</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=FORTUNE" target="_top">FORTUNE</a></td>
+<td class="textAlingRight">9,703,780</td>
+<td class="textAlingRight">142.8</td>
+<td class="textAlingRight">142.8</td>
+<td class="textAlingRight">140.7</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=FUWANGFOOD" target="_top">FUWANGFOOD</a></td>
+<td class="textAlingRight">9,305,226</td>
+<td class="textAlingRight">24.4</td>
+<td class="textAlingRight">24.4</td>
+<td class="textAlingRight">23.4</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=YPL" target="_top">YPL</a></td>
+<td class="textAlingRight">7,269,054</td>
+<td class="textAlingRight">24.5</td>
+<td class="textAlingRight">24.5</td>
+<td class="textAlingRight">22.3</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=GENEXIL" target="_top">GENEXIL</a></td>
+<td class="textAlingRight">5,531,948</td>
+<td class="textAlingRight">124.1</td>
+<td class="textAlingRight">124.1</td>
+<td class="textAlingRight">124.8</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=PREMIERBAN" target="_top">PREMIERBAN</a></td>
+<td class="textAlingRight">5,176,944</td>
+<td class="textAlingRight">16.6</td>
+<td class="textAlingRight">16.6</td>
+<td class="textAlingRight">16.7</td>
+</tr>
+<tr>
+<td colspan="6" style="padding:0;"><a class="btn btn-link pull-right" href="latest_share_price_scroll_by_volume.php"><strong>More...</strong></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="tab-pane" id="trade" role="tabpanel">
+<div class="table-responsive">
+<table class="table table-striped shareByPrice table-bordered homePageTable market-highlights-table">
+<thead>
+<tr>
+<th class="textAlingleft">TRADING CODE</th>
+<th class="textAlingRight">TRADE</th>
+<th class="textAlingRight">LTP</th>
+<th class="textAlingRight">CLOSEP</th>
+<th class="textAlingRight">YCP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=GENEXIL" target="_top">GENEXIL</a></td>
+<td class="textAlingRight">7,107</td>
+<td class="textAlingRight">124.1</td>
+<td class="textAlingRight">124.1</td>
+<td class="textAlingRight">124.8</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=FUWANGFOOD" target="_top">FUWANGFOOD</a></td>
+<td class="textAlingRight">3,313</td>
+<td class="textAlingRight">24.4</td>
+<td class="textAlingRight">24.4</td>
+<td class="textAlingRight">23.4</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=FORTUNE" target="_top">FORTUNE</a></td>
+<td class="textAlingRight">3,212</td>
+<td class="textAlingRight">142.8</td>
+<td class="textAlingRight">142.8</td>
+<td class="textAlingRight">140.7</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=BEXIMCO" target="_top">BEXIMCO</a></td>
+<td class="textAlingRight">2,929</td>
+<td class="textAlingRight">153.1</td>
+<td class="textAlingRight">153.1</td>
+<td class="textAlingRight">152.6</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=GEMINISEA" target="_top">GEMINISEA</a></td>
+<td class="textAlingRight">2,580</td>
+<td class="textAlingRight">510.5</td>
+<td class="textAlingRight">510.5</td>
+<td class="textAlingRight">484.8</td>
+</tr>
+<tr>
+<td class="textAlingleft"><a href="displayCompany.php?name=BDCOM" target="_top">BDCOM</a></td>
+<td class="textAlingRight">2,411</td>
+<td class="textAlingRight">41</td>
+<td class="textAlingRight">41</td>
+<td class="textAlingRight">40.7</td>
+</tr>
+<tr>
+<td colspan="6" style="padding:0;"><a class="btn btn-link pull-right" href="latest_share_price_scroll_by_trade.php"><strong>More...</strong></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="tab-pane" id="market" role="tabpanel">
+<div class="table-responsive">
+<table class="table table-striped shareByPrice table-bordered homePageTable market-highlights-table">
+<thead>
+<tr>
+<th class="textAlingCenter">Date</th>
+<th class="textAlingRight">Total Trade</th>
+<th class="textAlingRight">Total Volume</th>
+<th class="textAlingRight">Total Value in Taka (mn)</th>
+<th class="textAlingRight" style="width:24%">Total Market Cap. in Taka (mn)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="textAlingleft">31-03-2022</td>
+<td class="textAlingRight">152808</td>
+<td class="textAlingRight">214520302</td>
+<td class="textAlingRight">11169.465</td>
+<td class="textAlingRight">5394154.804</td>
+</tr>
+<tr>
+<td class="textAlingleft">30-03-2022</td>
+<td class="textAlingRight">146151</td>
+<td class="textAlingRight">167122052</td>
+<td class="textAlingRight">8013.283</td>
+<td class="textAlingRight">5390167.842</td>
+</tr>
+<tr>
+<td class="textAlingleft">29-03-2022</td>
+<td class="textAlingRight">161199</td>
+<td class="textAlingRight">218887224</td>
+<td class="textAlingRight">9816.165</td>
+<td class="textAlingRight">5400970.248</td>
+</tr>
+<tr>
+<td class="textAlingleft">28-03-2022</td>
+<td class="textAlingRight">169091</td>
+<td class="textAlingRight">181955740</td>
+<td class="textAlingRight">9245.701</td>
+<td class="textAlingRight">5392716.252</td>
+</tr>
+<tr>
+<td class="textAlingleft">27-03-2022</td>
+<td class="textAlingRight">146021</td>
+<td class="textAlingRight">185840871</td>
+<td class="textAlingRight">8588.871</td>
+<td class="textAlingRight">5380889.314</td>
+</tr>
+<tr>
+<td class="textAlingleft">24-03-2022</td>
+<td class="textAlingRight">140612</td>
+<td class="textAlingRight">183421468</td>
+<td class="textAlingRight">8295.950</td>
+<td class="textAlingRight">5382633.403</td>
+</tr>
+<tr>
+<td colspan="6" style="padding:0;"><a class="btn btn-link pull-right" href="recent_market_information.php"><strong>More...</strong></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row custom-row">
+<div class="col-md-6 col-xs-12 col-sm-12 LeftColHome">
+<div class="mt10"> <a class="btn btn-mp btn-lg marketprice" href="mkt_depth_3.php">Market Price</a> <a class="btn btn-mp btn-lg portfolio" href="portfolio.php">My Portfolio</a> </div>
+<div class="StockInfo mt10">
+<div class="SILeft">
+<div class="Sbg">
+<div class="StockIcon"><img src="assets/images/icon-ms.png"/></div>
+<div class="StockLink"><a href="https://www.dsebd.org/market-statistics.php">Market Statistics</a></div>
+</div>
+<div class="Sbg1">
+<div class="StockIcon"><img src="assets/images/icon-gainer.png"/></div>
+<div class="StockLink"><a href="top_ten_gainer.php">Top 10 Gainers</a></div>
+</div>
+<div class="Sbg">
+<div class="StockIcon"><img src="assets/images/icon-toplooser.png"/></div>
+<div class="StockLink"><a href="top_ten_loser.php">Top 10 Losers</a></div>
+</div>
+<div class="Sbg1">
+<div class="StockIcon"><img src="assets/images/Close Price.png"/></div>
+<div class="StockLink"><a href="dse_close_price.php">Close Price</a></div>
+</div>
+<div class="Sbg">
+<div class="StockIcon"><img src="assets/images/p_g.png"/></div>
+<div class="StockLink"><a href="picture_gallery.php"> Picture Gallery</a></div>
+</div>
+<div class="Sbg1">
+<div class="StockIcon"><img src="assets/images/icon-cicuit.png"/></div>
+<div class="StockLink"><a href="cbul.php">Circuit Breaker</a></div>
+</div>
+</div>
+<div class="SIRight">
+<div class="Sbg">
+<div class="StockIcon"><img src="assets/images/icon-data-archive.png"/></div>
+<div class="StockLink"><a href="data_archive.php">Data Archive</a></div>
+</div>
+<div class="Sbg1">
+<div class="StockIcon"><img src="assets/images/icon-debt-board.png"/></div>
+<div class="StockLink"><a href="latest_share_price_scroll_treasury_bond.php">DEBT Board</a> </div>
+</div>
+<div class="Sbg">
+<div class="StockIcon"><img src="assets/images/icon-agm-record.png"/></div>
+<div class="StockLink"><a href="CompAGM&amp;RecordDate.php">AGM/EGM and Record Date</a></div>
+</div>
+<div class="Sbg1">
+<div class="StockIcon"><img src="assets/images/Press_Release.png"/></div>
+<div class="StockLink"><a href="press.php">Press Release</a></div>
+</div>
+<div class="Sbg">
+<div class="StockIcon"><img src="assets/images/icon-weekly.png"/></div>
+<div class="StockLink"><a href="https://www.dsebd.org/weekly_report.pdf">Weekly Report</a></div>
+</div>
+<div class="Sbg1">
+<div class="StockIcon"><img src="assets/images/ipo_result.png"/></div>
+<div class="StockLink"><a href="ipo_lottery_result.php">IPO Allotment on Pro-rata basis</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6 col-xs-12 col-sm-12 RightColHome">
+<div class="panel panel-dse mt10">
+<div class="panel-heading">Announcement</div>
+<div class="panel-body" style="height:219px">
+<div class="" id="description">
+<ul class="corNews">
+<li class="bg-font"><a href="RFP.php"><font color="#660000">Request for Proposal (RFP) </font><img src="assets/images/new-blinking1.gif" style="float:center"/></a></li>
+<li class="bg-font"><a href="assets/pdf/BSEC Order on standard downward price change limit (circuit breaker).pdf"><marquee scrolldelay="160" target="_blank"><font color="#2B5A04">BSEC's order on standard downward price change limit (Circuit breaker)</font> </marquee></a></li>
+<li class="bg-font"><a href="assets/pdf/BSEC-Women-investors-education-for-free.pdf" target="_blank"><font color="green">বিনা ফি’তে শেয়ার বাজারে সম্মানিত নারী বিনিয়োগকারীদের জন্য শিক্ষামূলক কার্যক্রম</font></a> <span class="blink_text"><img src="assets/images/new-blinking1.gif" style="float:center"/></span></li>
+<li class="bg-font"><a href="assets/pdf/Directive_03.05.2021.pdf"><marquee scrolldelay="125" target="_blank">
+<font color="#4d004d">Exemption period for submission of financial statements or other documents due to Government declared lock down under Covid-19
+                  pandemic situation</font> </marquee></a></li>
+<li class="bg-font"> <a href="assets/pdf/PanelAuditos for TREC Holders.pdf"><font color="#0000CC"> Panel of Auditors for auditing Financial Statements of DSE TREC Holder Companies </font></a></li>
+<li class="bg-font"><a href="assets/pdf/Conducting AGM, EGM through Digital Platform.pdf"> Conducting AGM/EGM, meeting of BOD of listed Companies by using digital platform  </a></li>
+<li class="bg-font"> <a href="assets/pdf/Panel_Auditors.pdf"> <font color="green">Panel of Auditors' for auditing financial statements of listed securities</font> </a></li>
+<li class="bg-font"><a href="advertise-on-dsebd.org.php"> <font color=" #2e4053"><span class="blink_me">Contact us for Advertisement</span></font> </a> </li>
+<!--    <li class="bg-font"><a href="Election_2020.php"><font color="#660000">
+                                DSE Shareholder Director Election-2020 </font><img src="assets/images/new-blinking1.gif" style="float:center"></span>
+                                                </a></li>      -->
+<li class="bg-font"><a href="#">
+<marquee scrolldelay="140">
+<font color="#4d004d">"Considering the current cybersecurity situation and alert received from BGD e-GOV CIRT, DSE has decided to allow access of TWS and DSE-Mobile App to the Trading system from 8:00 am to 8:00 pm on trading day only. The measures has been taken for the greater interest of the Exchange, investors and Nation as a whole. We shall normalized the access of the users to the Trading system once the situation is improved." <img src="assets/images/new-blinking1.gif"/></font>
+</marquee>
+</a> </li>
+<li class="bg-font"><a href="assets/pdf/DSE_GRI_Guidance_Document_Final.pdf"> <font color="green">Guidance on Sustainability Reporting</font> </a> </li>
+<li class="bg-font"><a href="assets/pdf/regarding safeguard investor.pdf"> <font color="#0099FF"><span class="blink_me">Important information regarding safeguarding the investors´ interest </span></font></a></li>
+<li class="bg-font"><a href="assets/pdf/Order_restriction on logo.pdf" target="_blank"> <font color="##525c7a">Restriction on using name and logo of BSEC, DSE or CSE in social media</font> </a> </li>
+<li class="bg-font"><a href="assets/pdf/Z-category-Condition.pdf" target="_blank"> <font color="##525c9a">Condition on the issuer company under “Z”- category </font> </a> </li>
+<li class="bg-font"><a href="assets/pdf/Z Category T3 Settlement.pdf" target="_blank"> <font color="#4d004d">BSEC Order with regard to “Z”-category Companies </font> </a> </li>
+<li class="bg-font">
+<marquee scrolldelay="160">
+<a href="assets/pdf/BSEC-Order_08.07.2020.pdf"> <font color="#0000CC">BSEC Order regarding holding of AGM/EGM, meeting of BOD, publication and dissemination of PSI and requirements of monthly/quarterly submission to the Commission &amp; the Exchanges. </font> </a>
+</marquee>
+</li>
+<li class="bg-font"> <a href="assets/pdf/BSEC_Financial_Literacy.pdf"> বিনিয়োগের অ আ ক খ </a> </li>
+<li class="bg-font">
+<marquee scrolldelay="150">
+<a href="assets/pdf/bsec_notification/bsec.pdf"> "শেয়ারবাজারে বিনিয়োগ ঝুঁকিপূর্ণ, জেনে ও বুঝে বিনিয়োগ করুন। ফেসবুক কিংবা
+                  অন্য কোন সমর্থিত সূত্র থেকে সংগৃহীত তথ্যের ভিত্তিতে বিনিয়োগ করা থেকে বিরত
+                  থাকুন।" </a>
+</marquee>
+</li>
+<li class="bg-font"><a href="assets/pdf/InvestorEducationTraningProgramWoman_03.04.2017.pdf"> <font color="#006633">শেয়ার বাজারে সম্মানিত নারী বিনিয়োগকারীদের জন্য শিক্ষামূলক কার্যক্রম - বিএসইসি </font> </a> </li>
+<li class="bg-font"><a href="assets/pdf/InvestorEducationTraningProgram_03.04.2017.pdf"> <font color="#006633">শেয়ার বাজারে সম্মানিত বিনিয়োগকারীদের জন্য শিক্ষামূলক কার্যক্রম - বিএসইসি </font> </a></li>
+<li class="bg-font"> <a href="assets/pdf/Share-market-related.pdf"> পুঁজিবাজার সংক্রান্ত সিদ্ধান্ত/বক্তব্য দেয়ার ক্ষেত্রে বিএসইসির সাথে আলোচনা,
+                  পরামর্শ ও সমন্বয় প্রসঙ্গে। </a> </li>
+</ul>
+</div>
+<div style="position: absolute; bottom: 8px; right: -5px; "><a class="btn btn-link" href="corporate-announcement.php"><strong>More...</strong></a> </div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+<!--
+            <div class="col-md-12 col-xs-12">
+              <center>
+
+            <div align="center" class='ads-block'>
+                                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+                                <ins class="adsbygoogle"
+                                         style="display:inline-block;width:970px;height:90px"
+                                         data-ad-client="ca-pub-2209070014716943"
+                                         data-ad-slot="8843518118"></ins>
+                                <script>
+                                (adsbygoogle = window.adsbygoogle || []).push({});
+                                </script>
+            </div>
+                </center>
+            </div>-->
+<div class="col-md-12 col-xs-12 dsktp" style="margin-bottom:20px;">
+<div class="TBtn_6" style="margin-left:0"> <a class="btn btn-mp tfull" href="https://sme.dsebd.org/"> <img src="assets/images/icon-sme.png" style=""/> <b> <span style="margin-left: 15px;">DSE-SME</span> </b> </a> </div>
+<div class="TBtn_6"> <a class="btn btn-mp tfull" href="dse-mobile.php"> <img src="assets/images/dse_mogo.png" style=""/> <b> <span style="margin-left: 15px;">DSE- Mobile </span></b> </a> </div>
+<div class="TBtn_6" style=""> <a class="btn btn-mp tfull" href="ipo.php"> <img src="assets/images/ipo-icon.png" style=""/> <b><span style="margin-left: 15px;">IPO</span></b> </a> </div>
+<div class="TBtn_6" style=""> <a class="btn btn-mp tfull" href="otc.php"> <img src="assets/images/market-icon.png"/> <b>OTC Market</b> </a> </div>
+<div class="TBtn_6" style=""> <a class="btn btn-mp tfull" href="Training_Academy_2.b.php"> <img src="assets/images/training-icon.png"/> <b>Training Academy</b> </a> </div>
+<div class="TBtn_6" style=""> <a class="btn btn-mp tfull" href="online_e_payment.php"> <img src="assets/images/icon-online_payment.png" style=""/> <b>Online Payment</b> </a> </div>
+</div>
+<div class="col-xs-12 mobileph">
+<div class="TBtn_6"> <a class="btn btn-mp tfull" href="https://sme.dsebd.org/">
+<center>
+<img src="assets/images/icon-sme.png" style=""/><br/>
+<b> <font color="3F5D6D">DSE-SME</font> </b>
+</center>
+</a> </div>
+<div class="TBtn_6"> <a class="btn btn-mp tfull" href="dse-mobile.php">
+<center>
+<img src="assets/images/dse_mogo.png" style=""/> <br/>
+<b> <font color="3F5D6D">DSE-Mobile</font> </b>
+</center>
+</a> </div>
+<div class="TBtn_6" style="">
+<center>
+<a class="btn btn-mp tfull" href="ipo.php"> <img src="assets/images/ipo-icon.png" style=""/><br/>
+<b>IPO</b> </a>
+</center>
+</div>
+<div class="TBtn_6" style="margin-left:.5%"> <a class="btn btn-mp tfull" href="otc.php"> <img src="assets/images/market-icon.png"/><br/>
+<b>OTC Market</b> </a> </div>
+<div class="TBtn_6" style=""> <a class="btn btn-mp tfull" href="Training_Academy_2.b.php"> <img src="assets/images/training-icon.png"/><br/>
+<b>DSETraining Academy</b> </a> </div>
+<div class="TBtn_6" style=""> <a class="btn btn-mp tfull" href="online_e_payment.php"> <img src="assets/images/icon-online_payment.png" style=""/> <br/>
+<b>Online Payment</b> </a> </div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="containerFot">
+<footer>
+<div class="fHeading">
+<div class="footer">
+<div class="FoooterColum-1">
+<h2>Market Information </h2>
+<span class="triangle-down" style="margin-top:-5px;"></span></div>
+<div class="FoooterColum-sm">
+<h2>DSE Publication</h2>
+<span class="triangle-down" style="margin-top:-2px;"></span></div>
+<div class="FoooterColum">
+<h2>DSE TREC holders</h2>
+<span class="triangle-down" style="margin-top:-4px;"></span></div>
+<div class="FoooterColum-2">
+<h2>Company Information</h2>
+<span class="triangle-down" style="margin-top:-7px;"></span></div>
+<div class="FoooterColum-2">
+<h2>Others</h2>
+<span class="triangle-down" style="margin-top:-7px;"></span></div>
+</div>
+</div>
+<div class="footer" style="padding-top:2%;">
+<div class="FoooterColum-1">
+<ul>
+<li><a href="recent_market_information.php">Recent Market Information</a></li>
+<li><a href="top_20_share.php">Top 20 Shares</a></li>
+<li><a href="dseX_share.php">DSE<font size="3">X</font></a></li>
+<li><a href="dse30_share.php">DS30</a></li>
+<li><b>Latest Share Price</b></li>
+<li>      <a href="latest_share_price_scroll_by_ltp.php">By Last Trade Price</a></li>
+<li>      <a href="latest_share_price_scroll_by_change.php">By % Change</a></li>
+<li>      <a href="latest_share_price_scroll_group.php">By Category</a></li>
+<li>      <a href="latest_share_price_scroll_by_value.php">By Value</a></li>
+<li>      <a href="latest_share_price_scroll_by_volume.php">By Volume</a></li>
+<li>      <a href="latest_share_price_scroll_l.php">By Trade Code</a></li>
+<li>      <a href="latest_share_price_alpha.php">By Alphabetic Order</a></li>
+<li>      <a href="datafile/quotes_script.php">In Text Mode</a></li>
+<li>      <a href="latest_share_price_scroll_treasury_bond.php">DEBT Board</a></li>
+<li><a href="latest_PE.php">P/E: at a Glance</a></li>
+<!--<li><a href="latest_share_price_scroll_treasury_bond.php">DEBT Board</a></li>-->
+</ul>
+</div>
+<div class="FoooterColum-sm">
+<ul>
+<li><a href="press.php">Press Release</a></li>
+<li><a href="picture_gallery.php">Picture Gallery</a></li>
+<li><a href="new.php">Major Events</a></li>
+<li><a href="publication_views.php">Views</a></li>
+<li><a href="dse_tower_progress.php">DSE Tower Project</a></li>
+<!--<li><a href="pdf/vsn.pdf">Mission and Vision</a></li>
+                                        <li><a href="dseglance.php">DSE at a Glance</a></li>-->
+<li><a href="weekly_report.pdf">Weekly</a></li>
+<li><a href="mrg.php">Monthly</a></li>
+<li><a href="download/Annual_Report.pdf">Annual Report</a></li>
+</ul>
+</div>
+<div class="FoooterColum">
+<ul>
+<li><a href="search_member_with_branch.php">TREC Holders Directory</a></li>
+<li>        <a href="list_of_member.php">By Alphabetic Order</a></li>
+<li>        <a href="search_member_by_location.php">By Location</a></li>
+<li><a href="trecregulation.php">TREC Regulations</a></li>
+<li><a href="dealer_info.php">TREC Holders’ web Links</a></li>
+<li><a href="search_tradeholder_more.php">TREC Holder Search</a></li>
+</ul>
+</div>
+<div class="FoooterColum-2">
+<ul>
+<li><a href="company_listing.php">Company Listing</a></li>
+<li><a href="by_industrylisting.php">Sector-wise Company List</a></li>
+<li><a href="latest_share_price_scroll_group.php">Companies by Category</a></li>
+<li><a href="CompAGM&amp;RecordDate.php">AGM/EGM and Record Date</a></li>
+<li><a href="rightoffers.php">Right Offer Documents</a></li>
+<li><a href="re-listing.php">Re-listing</a></li>
+<li><a href="directlisting.php">Direct Listing</a></li>
+<li><a href="ipo.php">New Issues (IPO)</a></li>
+<li><a href="ipo_lottery_result.php">IPO Result</a></li>
+<li><a href="rights_issue_utilisation.php">IPO/ RPO/ Rights Proceeds Utilisation</a></li>
+</ul>
+</div>
+<div class="FoooterColum-2">
+<ul>
+<li><a href="newautomation_system.php">DSE New Automation System</a></li>
+<li><a href="RFP_for_Demutualization_Scheme.php">Demutualization Scheme</a></li>
+<li><a href="ISofdse.php">Integrity Strategy of DSE</a></li>
+<li><a href="complaintCell.php">Complaint Cell</a></li>
+<li><a href="helpdesk_nrb.php">Help Desk for NRB</a></li>
+<li><a href="inquirydesk.php">Help Desk</a></li>
+<li> </li>
+<li><b>Quick Links</b></li>
+<li><a href="http://www.sec.gov.bd" target="_blank">BSEC</a></li>
+<script>
+function blinker() {
+        $('.blinking').fadeOut(700);
+        $('.blinking').fadeIn(700);
+}
+setInterval(blinker, 3000);
+</script>
+<li class="blinking tab"><a href="http://www.financialliteracybd.com/bn/index.php" target="_blank"><font color="#FFFFFF">Nationwide Financial Literacy    </font><img src="assets/images/images55.png" style="float:center"/></a> </li>
+<li><a href="https://www.cdbl.com.bd/complaints.sec.gov.bd/" target="_blank">Customer Complaint Address Module</a></li>
+<li><a href="https://www.essbangladesh.com" target="_blank">Electronic Subscription System (ESS)</a></li>
+<li><a href="https://www.v-next.cn/categories/getCountrySpecial?id=24&amp;objectid=30" target="_blank"> V-Next</a></li>
+<li><a href="https://www.dsebd.org/cdbl.php" target="_blank">CDBL</a></li>
+<li><a href="http://www.boi.gov.bd" target="_blank">BIDA</a></li>
+<li><a href="https://www.globalreporting.org/" target="_blank">Global Reporting Initiative (GRI)</a></li>
+<li><a href="ose.php">Other Links</a></li>
+</ul>
+</div>
+</div>
+<div class="clearfix"></div>
+<div align="center" style="margin-left: auto; margin-right:auto;">
+<hr/>
+<table align="center" border="0" width="90%">
+<tr>
+<td align="left" style="color:#fff; font-weight:bold; padding-left:0px;" width="45%">Global Affiliation</td>
+<td align="right" colspan="2" style="color:#fff; font-weight:bold;">Technology Application Affiliation</td>
+</tr>
+</table>
+<br/>
+<table align="center" border="0" width="90%">
+<tr>
+<td align="left" width="32%"><a href="http://www.world-exchanges.org/member-exchanges/correspondents"> <img src="assets/images/WFX_logo.png" style="height:25px; width:160px;"/> </a></td>
+<td align="center"><a href="http://ir.nasdaqomx.com/releasedetail.cfm?releaseid=834756"> <img src="assets/images/Nasdaq_logo.png" style="height:25px; width:160px;"/> </a></td>
+<td align="right"><a href="http://www.flextrade.com"> <img src="assets/images/FlexTrade_logo.png" style="height:15px; width:120px;"/> </a></td>
+</tr>
+</table>
+</div>
+<div class="clearfix"></div>
+<div class="footerBottom">
+<div class="col-xs-2"><a href="disclaimer.htm">Disclaimer</a></div>
+<div class="col-xs-8">
+<ul>
+<li><a href="index.php">Home</a></li>
+<li><a href="download.php">Download</a></li>
+<li><a href="data_archive.php">Data Archives</a></li>
+<li><a href="career.php">Career at DSE</a></li>
+<li><a href="dse_faq.php">FAQ</a></li>
+<li><a href="feedback.php" title="Website User Feedback">WUF</a></li>
+<li><a href="sitemap.php">Site Map</a></li>
+<li><a href="ose.php">Link</a></li>
+</ul>
+<p><a href="copyright.htm"><font size="3">©</font> Dhaka Stock Exchange
+          2020</a></p>
+<!--  <p>Powered by <a href="http://www.bol-online.com" target="_blank"> Bangladesh Online</a>, a division of Bangladesh Export Import Company Ltd.</p>  -->
+</div>
+<div class="col-xs-2"><a href="termsacond.htm">Terms &amp; Condition</a></div>
+</div>
+</footer>
+<div class="clearfix"></div>
+</div>
+<!--Containerbox End-->
+<div class="containerFotMobile">
+<footer>
+<div class="footer" style="padding-top:2%;">
+<div class="FoooterColum-1">
+<h4>Market Information </h4>
+<ul>
+<li><a href="recent_market_information.php">Recent Market Information</a></li>
+<li><a href="top_20_share.php">Top 20 Shares</a></li>
+<li><a href="dseX_share.php">DSE<font size="3">X</font></a></li>
+<li><a href="dse30_share.php">DS30</a></li>
+<li><b>Latest Share Price</b></li>
+<li>      <a href="latest_share_price_scroll_by_ltp.php">By Last Trade Price</a></li>
+<li>      <a href="latest_share_price_scroll_by_change.php">By % Change</a></li>
+<li>      <a href="latest_share_price_scroll_group.php">By Category</a></li>
+<li>      <a href="latest_share_price_scroll_by_value.php">By Value</a></li>
+<li>      <a href="latest_share_price_scroll_by_volume.php">By Volume</a></li>
+<li>      <a href="latest_share_price_scroll_l.php">By Trade Code</a></li>
+<li>      <a href="latest_share_price_alpha.php">By Alphabetic Order</a></li>
+<li>      <a href="datafile/quotes.txt">In Text Mode</a></li>
+<li>      <a href="latest_share_price_scroll_treasury_bond.php">DEBT Board</a></li>
+<li><a href="latest_PE.php">P/E: at a Glance</a></li>
+<!--<li><a href="latest_share_price_scroll_treasury_bond.php">DEBT Board</a></li>-->
+</ul>
+</div>
+<div class="FoooterColum-sm">
+<h4>DSE Publication</h4>
+<ul>
+<li><a href="press.php">Press Release</a></li>
+<li><a href="picture_gallery.php">Picture Gallery</a></li>
+<li><a href="new.php">Major Events</a></li>
+<li><a href="dse_tower_progress.php">DSE Tower Project</a></li>
+<!--<li><a href="pdf/vsn.pdf">Mission and Vision</a></li>
+                                        <li><a href="dseglance.php">DSE at a Glance</a></li>-->
+<li><a href="weekly_report.htm">Weekly</a></li>
+<li><a href="mrg.php">Monthly</a></li>
+<li><a href="download/Annual_Report.pdf">Annual Report</a></li>
+</ul>
+</div>
+<div class="FoooterColum">
+<h4>DSE TREC holders</h4>
+<ul>
+<li><a href="search_member_with_branch.php">TREC Holders Directory</a></li>
+<li>        <a href="list_of_member.php">By Alphabetic Order</a></li>
+<li>        <a href="search_member_by_location.php">By Location</a></li>
+<li><a href="trecregulation.php">TREC Regulations</a></li>
+<li><a href="dealer_info.php">TREC Holders’ web Links</a></li>
+<li><a href="search_tradeholder_more.php">TREC Holder Search</a></li>
+</ul>
+</div>
+<div class="FoooterColum-2">
+<h4>Company Information</h4>
+<ul>
+<li><a href="company_listing.php">Company Listing</a></li>
+<li><a href="by_industrylisting.php">Sector-wise Company List</a></li>
+<li><a href="latest_share_price_scroll_group.php">Companies by Category</a></li>
+<li><a href="CompAGM&amp;RecordDate.php">AGM/EGM and Record Date</a></li>
+<li><a href="rightoffers.php">Right Offer Documents</a></li>
+<li><a href="re-listing.php">Re-listing</a></li>
+<li><a href="directlisting.php">Direct Listing</a></li>
+<li><a href="ipo.php">New Issues (IPO)</a></li>
+<li><a href="ipo_lottery_result.php">IPO Result</a></li>
+<li><a href="rights_issue_utilisation.php">IPO/ RPO/ Rights Proceeds Utilisation</a></li>
+</ul>
+</div>
+<div class="FoooterColum-2">
+<h4>Others</h4>
+<ul>
+<li><a href="newautomation_system.php">DSE New Automation System</a></li>
+<li><a href="RFP_for_Demutualization_Scheme.php">Demutualization Scheme</a></li>
+<li><a href="ISofdse.php">Integrity Strategy of DSE</a></li>
+<li><a href="complaintCell.php">Complaint Cell</a></li>
+<li><a href="helpdesk_nrb.php">Help Desk for NRB</a></li>
+<li><a href="inquirydesk.php">Help Desk</a></li>
+<li> </li>
+<li><b>Quick Links</b></li>
+<li><a href="http://www.sec.gov.bd" target="_blank">BSEC</a></li>
+<script>
+function blinker() {
+        $('.blinking').fadeOut(700);
+        $('.blinking').fadeIn(700);
+}
+setInterval(blinker, 3000);
+</script>
+<li class="blinking tab"><a href="http://www.financialliteracybd.com/bn/index.php" target="_blank"><font color="#FFFFFF">Nationwide Financial Literacy    </font><img src="assets/images/images55.png" style="float:center"/></a> </li>
+<li><a href="https://www.cdbl.com.bd/complaints.sec.gov.bd/" target="_blank">Customer Complaint Address Module</a></li>
+<li><a href="http://www.essbangladesh.com" target="_blank">Electronic Subscription System (ESS)</a></li>
+<li><a href="https://www.v-next.cn/categories/getCountrySpecial?id=24&amp;objectid=30" target="_blank"> V-Next</a></li>
+<li><a href="https://www.dsebd.org/cdbl.php">CDBL</a></li>
+<li><a href="http://www.boi.gov.bd" target="_blank">BIDA</a></li>
+<li><a href="https://www.globalreporting.org/" target="_blank">Global Reporting Initiative (GRI)</a></li>
+<li><a href="ose.php">Other Links</a></li>
+</ul>
+</div>
+</div>
+<div class="clearfix"></div>
+<div align="center" style="margin-left: auto; margin-right:auto;">
+<hr/>
+<table align="center" border="0" width="90%">
+<tr>
+<td align="left" width="100%"><h4 style="color:#fff;">Global Affiliation</h4>
+<a href="http://www.world-exchanges.org/member-exchanges/correspondents"> <img src="assets/images/WFX_logo.png" style="height:25px; width:160px;"/> </a> <br/>
+<br/>
+<h4 style="color:#fff">Technology Application Affiliation</h4>
+<a href="http://ir.nasdaqomx.com/releasedetail.cfm?releaseid=834756"> <img src="assets/images/Nasdaq_logo.png" style="height:25px; width:160px;"/> </a><br/>
+<br/>
+<a href="http://www.flextrade.com"> <img src="assets/images/FlexTrade_logo.png" style="height:15px; width:120px;"/> </a><br/>
+<br/></td>
+</tr>
+</table>
+</div>
+<div class="clearfix"></div>
+<div class="footerBottom">
+<div class="col-md-2 col-xs-6"><a href="disclaimer.htm">Disclaimer</a></div>
+<div class="col-md-2 col-xs-6"><a href="termsacond.htm">Terms &amp; Condition</a></div>
+<div class="col-md-8 col-xs-12">
+<ul>
+<li><a href="index.php">Home</a></li>
+<li><a href="download.php">Download</a></li>
+<li><a href="data_archive.php">Data Archives</a></li>
+<li><a href="career.php">Career at DSE</a></li>
+<li><a href="dse_faq.php">FAQ</a></li>
+<li><a href="feedback.php" title="Website User Feedback">WUF</a></li>
+<li><a href="sitemap.php">Site Map</a></li>
+<li><a href="ose.php">Link</a></li>
+</ul>
+<p><a href="copyright.htm"><font size="3">©</font> Dhaka Stock Exchange 2020</a></p>
+<!-- <p>Powered by <a href="http://www.bol-online.com" target="_blank"> Bangladesh Online</a>, a division of Bangladesh Export Import Company Ltd.</p>   -->
+</div>
+</div>
+</footer>
+<div class="clearfix"></div>
+</div>
+<link href="assets/lib/scroll/perfect-scrollbar.css" rel="stylesheet"/>
+<script src="assets/js/jquery.min.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.js"></script> -->
+<script src="assets/js/jquery-ui.js" type="text/javascript"></script>
+<script src="assets/js/bootstrap.js" type="text/javascript"></script>
+<script src="assets/js/tab.js" type="text/javascript"></script>
+<script src="assets/lib/scroll/perfect-scrollbar.min.js"></script>
+<script src="assets/js/jquery.floatThead.min.js" type="text/javascript"></script>
+<script src="assets/js/jquery.dataTables.min.js" type="text/javascript"></script>
+<script src="assets/js/custom.js" type="text/javascript"></script>
+<script type="text/javascript">
+        $('.carousel').carousel({
+                interval: 3000
+        });
+
+        $('.collapse-sub').on('shown.bs.collapse-sub', function (e) {
+                $('.collapse-sub').not(this).removeClass('in');
+        });
+
+        $('[data-toggle=collapse-sub]').click(function (e) {
+                $('[data-toggle=collapse-sub]').parent('li').removeClass('active');
+                $(this).parent('li').toggleClass('active');
+        });
+
+        $(function() {
+        $('#description').perfectScrollbar();
+
+                $(".profiles").find(".tab").hide();
+                $(".profiles").find(".tab").first().show();
+                $(".profiles").find(".tabs li").first().find("a").addClass("active");
+
+                $(".profiles").find(".tabs").find("a").click(function(){
+                    tab = $(this).attr("href");
+                    $(".profiles").find(".tab").hide();
+                    $(".profiles").find(".tabs").find("a").removeClass("active");
+                    $(tab).show();
+                    $(this).addClass("active");
+                    return false;
+                });
+
+                var TradingCode = [];
+                $.get("ajax/suggestList.php", { "suggestType" : "tc" }, function(ret){
+                        TradingCode = JSON.parse(ret);
+                        $( ".textCompany" ).autocomplete({
+                                source: TradingCode/*function( request, response ) {
+                                                var matcher = new RegExp( "^" + $.ui.autocomplete.escapeRegex( request.term ), "i" );
+                                                response( $.grep( TradingCode, function( item ){
+                                                        return matcher.test( item.label );
+                                                }) )*/
+                        });
+                });
+
+                var TrecHolder = [];
+                $.get("ajax/suggestList.php", { "suggestType" : "th" }, function(ret){
+                        TrecHolder = JSON.parse(ret);
+                        $( ".textTRECHolder" ).autocomplete({
+                                source: TrecHolder
+                        });
+                });
+        });
+
+        function openNav() {
+                document.getElementById("mySidenav").style.width = "250px";
+            document.getElementById("RightBody").style.marginLeft = "250px";
+        }
+
+        function closeNav() {
+            document.getElementById("mySidenav").style.width = "0";
+            document.getElementById("RightBody").style.marginLeft= "0";
+        }
+
+        function chkform() {
+                if(document.form.name.value == "") {
+                        alert("Please Enter Specific company symbol or company name");
+                        document.form.name.focus();
+                        return false;
+                }
+
+
+        }
+
+(function($){
+        $(document).ready(function(){
+
+                $(".dropdown-submenu").on("click", function(e){
+                        //e.preventDefault();
+                        e.stopPropagation();
+
+                        $(this).toggleClass('open');
+                        var dropdown = $(this).find('.dropdown-toggle');
+                        if (dropdown.attr('aria-expanded')) {
+                                dropdown.removeAttr('aria-expanded');
+                        } else {
+                                dropdown.attr('aria-expanded', true);
+                        };
+                });
+        });
+})(jQuery);
+</script>
+</section></div></body></html>
