@@ -1,5 +1,5 @@
-from datetime import datetime
 from bdshare import get_hist_data
+from datetime import datetime
 
 def getPrevYearMonth():
     currentMonth = datetime.now().month
@@ -9,7 +9,7 @@ def getPrevYearMonth():
     if prevMonth == 12: prevYear-=1
     return prevMonth, prevYear
 
-def top_5_turnover():
+def top_10_gainer():
     '''returns top 5 firms based on last month's last days turover'''
     num_of_days = [0, 31, 27, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
     prevMonth, prevYear = getPrevYearMonth()
@@ -28,19 +28,17 @@ def top_5_turnover():
                     '''uncomment to get top firm based on latest turnover'''
                     # cur_data = get_hist_data(end_date, end_date, first_day_data.symbol[i])
                     # turnover = (float(cur_data.ycp[j]) - float(cur_data.close[j])) / float(cur_data.close[j])
-                    turnover = (float(end_day_data.ycp[j]) - float(end_day_data.close[j])) / float(end_day_data.close[j])
+                    turnover = (float(first_day_data.ycp[i]) - float(end_day_data.close[j])) / float(end_day_data.close[j])
                     change = (float(end_day_data.value[j]) - float(first_day_data.value[i])) / float(first_day_data.value[i])
                     listOfFirms.append([first_day_data.symbol[i], turnover, change*100, float(end_day_data.value[j])])
                     break
 
     # print(listOfFirms)
     listOfFirms.sort(reverse = True, key = lambda x: x[1])
-    top5Firms = list()
-    for i in range(5):
-        top5Firms.append([listOfFirms[i][0], listOfFirms[i][3], listOfFirms[i][2]])
+    top10Firms = list()
+    for i in range(10):
+        top10Firms.append([listOfFirms[i][0], listOfFirms[i][3], listOfFirms[i][2]])
 
-    return top5Firms
+    return top10Firms
 
-f = top_5_turnover()
-for i in f:
-    print(i)
+
