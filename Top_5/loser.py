@@ -9,7 +9,7 @@ def getPrevYearMonth():
     if prevMonth == 12: prevYear-=1
     return prevMonth, prevYear
 
-def top_10_gainer():
+def top_5_loser():
     '''returns top 5 firms based on last month's last days turover'''
     num_of_days = [0, 31, 27, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
     prevMonth, prevYear = getPrevYearMonth()
@@ -35,10 +35,10 @@ def top_10_gainer():
 
     # print(listOfFirms)
     listOfFirms.sort(reverse = True, key = lambda x: x[1])
-    top10Firms = list()
-    for i in range(10):
-        top10Firms.append([listOfFirms[i][0], listOfFirms[i][3], listOfFirms[i][2]])
+    top5Firms = list()
+    for i in range(5):
+        top5Firms.append([listOfFirms[i][0], listOfFirms[i][3], listOfFirms[i][2]])
 
-    return top10Firms
+    return top5Firms
 
 
