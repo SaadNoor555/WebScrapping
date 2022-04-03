@@ -7,14 +7,15 @@ def getPrevYearMonth():
     prevMonth = currentMonth-1 + (currentMonth==1)*12
     prevYear = currentYear
     if prevMonth == 12: prevYear-=1
-    return prevMonth, prevYear
+    return str(prevMonth), str(prevYear)
 
 def top_5_loser():
     '''returns top 5 firms based on last month's last days turover'''
     num_of_days = [0, 31, 27, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
-    prevMonth, prevYear = getPrevYearMonth()
-    end_date = str(prevYear) + '-' + str(prevMonth) + '-' + str(num_of_days[prevMonth])
-    start_date = str(prevYear) + '-' + str(prevMonth) + '-1'
+    prevMonth, prevmonthYear = getPrevYearMonth()
+    if len(prevMonth) == 1 : prevMonth = '0'+prevMonth
+    end_date = prevmonthYear + '-' + prevMonth + '-' + str(num_of_days[int(prevMonth)])
+    start_date = prevmonthYear + '-' + prevMonth + '-01'
 
     first_day_data = get_hist_data(start_date, start_date)
     end_day_data = get_hist_data(end_date, end_date)
@@ -41,4 +42,4 @@ def top_5_loser():
 
     return top5Firms
 
-
+print(top_5_loser())

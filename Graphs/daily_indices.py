@@ -1,3 +1,5 @@
+# done
+
 from inspect import modulesbyfile
 import requests
 from bs4 import BeautifulSoup
@@ -22,11 +24,16 @@ def get_data_from_market(pageData, st):
     for line in pageData.split('\n'):
         if line.find("var index_value_"+st+" = ") != -1:
             flag = True
+            # print(line)
             # continue
-        elif flag:
+        if flag:
+            # print('yo')
             for data in line.split('\"+\"'):
+                # print(data)
                 datapoints.append(data)
             break
+
+    # print(datapoints)
     mydata = list()
     for i in range(1, len(datapoints)):
         time, t_data = datapoints[i].split(',')
@@ -47,4 +54,4 @@ def daily_indices(market):
 
     
 
-daily_indices('dsex')
+print(daily_indices("ds30"))

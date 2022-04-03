@@ -1,3 +1,5 @@
+# done
+
 from  bs4 import BeautifulSoup
 import requests
 
@@ -24,6 +26,7 @@ def count_specific_ad_ratio(cat):
 
 def count_all_ad_ratio():
     ad_ratios = list()
+    ad_ratios.append(count_specific_ad_ratio('All'))
     ad_ratios.append(count_specific_ad_ratio('A'))
     ad_ratios.append(count_specific_ad_ratio('B'))
     ad_ratios.append(count_specific_ad_ratio('N'))

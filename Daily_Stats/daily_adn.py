@@ -1,4 +1,5 @@
 # Import Required Library
+# done
 import requests
 from bs4 import BeautifulSoup
 import requests
@@ -17,7 +18,7 @@ def extract_adn_val(lines):
     return values
 
 
-def daily_adn():
+def todays_adn():
     url = "https://www.dsebd.org/"
     pages = requests.get(url)
     pages.text
@@ -39,4 +40,4 @@ def daily_adn():
     return advance, decline, nutral
 
 
-print(daily_adn())
+print(todays_adn())
